@@ -10,4 +10,4 @@ How do you feel when the sweepers of a city are looking for garbage? When we can
 
 © Arshia nikbakh
 
-Check my Linled on [Linked in page](Licence)
+connect with me on [Linked in page](https://www.linkedin.com/in/arshia-nikbakht)
