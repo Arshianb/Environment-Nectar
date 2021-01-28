@@ -14,9 +14,9 @@ To help our the country's sweepers.
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/GarbageLight.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppAndHistoryLight.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" height="500">|
 
-|Specify the location in Light mode|Activity history in Dark mode|Sign up in Light mode|
+|Specify the location in Light mode|Activity history in Light mode|Sign up in Light mode|
 |:-----------:|:-----:|:---------:|
-|<img src="garbage%20prioject%20gifs/GarbageLight.gif" height="500">|<img src="garbage%20prioject%20gifs/HistoryDark.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" height="500">|
+|<img src="garbage%20prioject%20gifs/GarbageLight.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppAndHistoryLight.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" height="500">|
 
 ## License & copyright
 
