@@ -5,7 +5,7 @@ How do you feel when the sweepers of a city are looking for garbage? When we can
 To help our the country's sweepers.
 
 ## Demo
-### An overview of the program:
+#### An overview of the program:
 |Specify the location in Dark mode|Start of the program|Sign up in Dark mode|
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" height="500">|
