@@ -12,6 +12,7 @@ How do you feel when the sweepers of a city are looking for garbage?:worried: Wh
 |Display the application logo|Start of the program|Sign up|Sign up|
 |:-----------:|:-----:|:---------:|:---------:|
 |<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
+>User can help sweeper or garbage collector by choosing the type of waste they have and sending its location to them.
 
 |Map|Map|Specify your garbage|Specify your garbage|
 |:-----------:|:-----:|:---------:|:---------:|
@@ -22,4 +23,4 @@ How do you feel when the sweepers of a city are looking for garbage?:worried: Wh
 
 © Arshia Nikbakh -Student of University of Isfahan-
 
-Check me on [Linked in page :link:](https://www.linkedin.com/in/arshia-nikbakht)
+Check me on [:link:Linked in page](https://www.linkedin.com/in/arshia-nikbakht)
