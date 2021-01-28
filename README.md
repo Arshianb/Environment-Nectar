@@ -4,3 +4,10 @@ How do you feel when the sweepers of a city are looking for garbage? When we can
 |Specify the location in Light mode|Start of the program|Sign up in dark mode|
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/GarbageLight.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" height="500">|
+
+
+## License & copyright
+
+© Arshia nikbakh
+
+Licensed under the [MIT License](LICENSE).
