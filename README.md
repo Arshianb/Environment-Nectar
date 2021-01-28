@@ -13,15 +13,8 @@ How do you feel when the sweepers of a city are looking for garbage? When we can
 
 |Specify your garbage|Specify your garbage|Sign up|Sign up|
 |:-----------:|:-----:|:---------:|:---------:|
-|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
+|<img src="garbage%20prioject%20gifs/SelectGarbageKight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
 
-|Activity history|Sign up|
-|:-----------:|:-----:|:---------:|
-|<img src="garbage%20prioject%20gifs/StartAppAndHistoryLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
-
-|Activity history|Turn on a GPS|
-|:-----------:|:-----:|:-----:|
-|<img src="garbage%20prioject%20gifs/HistoryDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/TurnOnGpsLight.gif" width="200px">|
 
 ## License & copyright
 
