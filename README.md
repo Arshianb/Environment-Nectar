@@ -7,17 +7,15 @@ How do you feel when the sweepers of a city are looking for garbage?:worried: Wh
 
 # Demo
 **An overview of the program(the whole app is programmed on light and dark mode):**
->You can see that in the beginning of the program, it was tried to be very attractive for our user :heavy_plus_sign: sign up with his phone number.
-
 |Display the application logo|Start of the program|Sign up|Sign up|
 |:-----------:|:-----:|:---------:|:---------:|
 |<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
->User can help sweeper or garbage collector by choosing the type of waste they have and sending its location to them.
+>You can see that in the beginning of the program, it was tried to be very attractive for our user :heavy_plus_sign: sign up with his phone number.
 
 |Map|Map|Specify your garbage|Specify your garbage|
 |:-----------:|:-----:|:---------:|:---------:|
 |<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/TurnOnGpsLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageKight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|
-
+>User can help sweeper or garbage collector by choosing the type of waste they have and sending its location to them.
 
 ## License & copyright
 
