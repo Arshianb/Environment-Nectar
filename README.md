@@ -1,8 +1,8 @@
 # Environment-Nectar  <img src="images/app_logo.png" width = "30"/>
 
-### Goal :star:
-To help our country's sweepers.
-### How :question:
+### Goal
+:boom:To help our country's sweepers.
+### How?
 How do you feel when the sweepers of a city are looking for garbage? When we can help them by giving our garbage location, so why not. This app is made to give the location of municipal garbage to those whose job is to collect them, and this is not only the right thing to do, but you can also collect points to get discounts in the program sponsor stores. It is coded with React Native as you can see in master branch.
 
 # Demo
