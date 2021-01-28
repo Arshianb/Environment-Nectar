@@ -7,19 +7,19 @@ How do you feel when the sweepers of a city are looking for garbage? When we can
 
 # Demo
 #### An overview of the program:
-|Map on Dark mode|Display the application logo|Sign up on Dark mode|
+|Map|Display the application logo|Sign up|
 |:-----------:|:-----:|:---------:|
-|<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|
+|<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="50%">|<img src="garbage%20prioject%20gifs/logo.gif" width="50%">|
 
-|Map on Light mode|Start of the program|Sign up on Light mode|
+|Map|Start of the program|Sign up|
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/GarbageLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
 
-|Specify your garbage on Dark mode|Activity history on Light mode|Sign up on Light mode|
+|Specify your garbage|Activity history on Light mode|Sign up|
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppAndHistoryLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
 
-|Specify your garbage on Light mode|Activity history on Dark mode|Turn on a GPS|
+|Specify your garbage|Activity history|Turn on a GPS|
 |:-----------:|:-----:|:-----:|
 |<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/HistoryDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/TurnOnGpsLight.gif" width="200px">|
 
