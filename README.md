@@ -7,15 +7,15 @@ How do you feel when the sweepers of a city are looking for garbage? When we can
 
 # Demo
 #### An overview of the program:
-|Map|Display the application logo|Sign up|Sign up|
+|Display the application logo|Start of the program|Map|Map|
 |:-----------:|:-----:|:---------:|:---------:|
-|<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
+|<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/GarbageLight.gif" width="200px">|
 
-|Map|Start of the program|
-|:-----------:|:-----:|
-|<img src="garbage%20prioject%20gifs/GarbageLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|
+|Sign up|Sign up|
+|:-----------:|:-----:|:---------:|:---------:|
+|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
 
-|Specify your garbage|Activity history on Light mode|Sign up|
+|Specify your garbage|Activity history|Sign up|
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppAndHistoryLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
 
