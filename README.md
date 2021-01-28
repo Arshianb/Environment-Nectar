@@ -9,7 +9,7 @@ How do you feel when the sweepers of a city are looking for garbage? When we can
 #### An overview of the program:
 |Display the application logo|Start of the program|Map|Map|
 |:-----------:|:-----:|:---------:|:---------:|
-|<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/GarbageLight.gif" width="200px">|
+|<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/TurnOnGpsLight.gif" width="200px">|
 
 |Specify your garbage|Specify your garbage|Sign up|Sign up|
 |:-----------:|:-----:|:---------:|:---------:|
