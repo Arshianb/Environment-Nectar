@@ -6,17 +6,21 @@ To help our the country's sweepers.
 
 ## Demo
 #### An overview of the program:
-|Map on Dark mode|Start of the program|Sign up in Dark mode|
+|Map on Dark mode|Start of the program|Sign up on Dark mode|
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" height="500">|
 
-|Map on Light mode|Activity history in Light mode|Sign up in Light mode|
+|Map on Light mode|Activity history in Light mode|Sign up on Light mode|
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/GarbageLight.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppAndHistoryLight.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" height="500">|
 
-|Specify the location in Dark mode|Activity history in Dark mode|Sign up in Light mode|
+|Specify your garbage on Dark mode|Activity history on Dark mode|Sign up on Light mode|
 |:-----------:|:-----:|:---------:|
 |<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" height="500">|<img src="garbage%20prioject%20gifs/HistoryDark.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" height="500">|
+
+|Specify your garbage on Light mode|Turn on a GPS|
+|:-----------:|:-----:|
+|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" height="500">|<img src="garbage%20prioject%20gifs/TurnOnGpsLight.gif" height="500">|
 
 ## License & copyright
 
