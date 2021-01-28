@@ -7,7 +7,7 @@ How do you feel when the sweepers of a city are looking for garbage?:worried: Wh
 
 # Demo
 **An overview of the program(the whole app is programmed on light and dark mode):**
->You can see that in the beginning of the program, it was tried to be very attractive for our user :heavy_plus_sign: sign up with his phone number 
+>You can see that in the beginning of the program, it was tried to be very attractive for our user :heavy_plus_sign: sign up with his phone number.
 
 |Display the application logo|Start of the program|Sign up|Sign up|
 |:-----------:|:-----:|:---------:|:---------:|
