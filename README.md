@@ -6,14 +6,17 @@ To help our the country's sweepers.
 
 ## Demo
 #### An overview of the program:
-|Specify the location in Dark mode|Start of the program|Sign up in Dark mode|
+|Map on Dark mode|Start of the program|Sign up in Dark mode|
 |:-----------:|:-----:|:---------:|
-|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" height="500">|
+|<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" height="500">|
 
-|Specify the location in Light mode|Activity history in Light mode|Sign up in Light mode|
+|Map on Light mode|Activity history in Light mode|Sign up in Light mode|
 |:-----------:|:-----:|:---------:|
-|<img src="garbage%20prioject%20gifs/SelectGarbageKight.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppAndHistoryLight.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" height="500">|
+|<img src="garbage%20prioject%20gifs/GarbageLight.gif" height="500">|<img src="garbage%20prioject%20gifs/StartAppAndHistoryLight.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" height="500">|
 
+|Specify the location in Light mode|Activity history in Dark mode|Sign up in Light mode|
+|:-----------:|:-----:|:---------:|
+|<img src="garbage%20prioject%20gifs/GarbageLight.gif" height="500">|<img src="garbage%20prioject%20gifs/HistoryDark.gif" height="500">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" height="500">|
 
 ## License & copyright
 
