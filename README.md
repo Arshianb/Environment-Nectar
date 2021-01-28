@@ -1,5 +1,5 @@
 # Environment-Nectar
-<img src="images/app_logo.png" width = "150"/> <img src="images/main_page_pic.png.png" height="200" width="300"/>
+<img src="images/app_logo.png" width = "200"/>
 ## Goal
 To help our the country's sweepers.
 
