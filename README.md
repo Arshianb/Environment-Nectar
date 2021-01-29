@@ -19,8 +19,11 @@ How do you feel when the sweepers of the city are exhausted in constantly collec
 |:-----------:|:-----:|:---------:|:---------:|
 |<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
 <div/>
-
+<div align= "left"> 
+  
 >As you can see at beginning of the program, was tried to be very attractive for our user :heavy_plus_sign: sign up with his phone number.
+
+<div/>
 
 <div align= "center"> 
   
