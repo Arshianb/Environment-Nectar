@@ -10,7 +10,7 @@ How do you feel when the sweepers of the city are exhausted in constantly collec
 |Display the application logo|Start of the program|Sign up|Sign up|
 |:-----------:|:-----:|:---------:|:---------:|
 |<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
->You can see that in the beginning of the program, it was tried to be very attractive for our user :heavy_plus_sign: sign up with his phone number.
+>as you can see in beginning of the program, was tried to be very attractive for our user :heavy_plus_sign: sign up with his phone number.
 
 |Map|Map|Specify your garbage|Specify your garbage|
 |:-----------:|:-----:|:---------:|:---------:|
