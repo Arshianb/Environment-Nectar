@@ -1,4 +1,9 @@
-# Environment-Nectar  <img src="images/app_logo.png" width = "30"/>
+<p align="center">
+  <a href="https://github.com/Arshianb/Environment-Nectar">
+    <img src="images/app_logo.png" alt="Logo" width="80" height="80">
+  </a>
+    <h3 align="center">Environment Nectar</h3>
+</p>
 
 ### Goal!
 :boom:To help our country's sweepers.
