@@ -24,6 +24,6 @@ How do you feel when the sweepers of the city are exhausted in constantly collec
 
 ## License & copyright
 
-© Arshia Nikbakh -Student of Isfahan University-
+**© Arshia Nikbakh -Student of Isfahan University-**
 
-**Check my [:link: Linked in page](https://www.linkedin.com/in/arshia-nikbakht).**
+Check my [:link: Linked in page](https://www.linkedin.com/in/arshia-nikbakht).
