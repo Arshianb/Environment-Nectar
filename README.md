@@ -28,7 +28,7 @@ How do you feel when the sweepers of the city are exhausted in constantly collec
 |:-----------:|:-----:|:---------:|:---------:|
 |<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/TurnOnGpsLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageKight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|
 <div/>
-<div align= "center"> 
+<div align= "left"> 
   
 >Users can help sweepers or garbage collectors by choosing the type of waste they have and sending its location to them.
 
