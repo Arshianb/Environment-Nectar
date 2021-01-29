@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://github.com/Arshianb/Environment-Nectar">
-    <img src="images/app_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/app_logo.png" alt="Logo" width="100" height="100">
   </a>
+  <a href="https://github.com/Arshianb/Environment-Nectar">
     <h3 align="center">Environment Nectar</h3>
+  </a>
 </p>
 
 ### Goal!
