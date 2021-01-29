@@ -22,8 +22,8 @@ How do you feel when the sweepers of the city are exhausted in constantly collec
 |<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/TurnOnGpsLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageKight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|
 >Users can help sweepers or garbage collectors by choosing the type of waste they have and sending its location to them.
 
-## License & copyright
+## Author
 
-**© Arshia Nikbakh -Student of Isfahan University-**
+**Arshia Nikbakh -Student of Isfahan University-**
 
 Check my [:link: Linked in page](https://www.linkedin.com/in/arshia-nikbakht).
