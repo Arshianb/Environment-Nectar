@@ -13,9 +13,12 @@ How do you feel when the sweepers of the city are exhausted in constantly collec
 
 ## Demo
 **An overview of the program (The whole app was programmed on both side of light and dark mode):**
+<div align= "center"> 
+  
 |Display the application logo|Start of the program|Sign up|Sign up|
 |:-----------:|:-----:|:---------:|:---------:|
 |<img src="garbage%20prioject%20gifs/logo.gif" width="200px">|<img src="garbage%20prioject%20gifs/StartAppDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/SignInOrSighnUpLight.gif" width="200px">|
+<div/>
 >As you can see at beginning of the program, was tried to be very attractive for our user :heavy_plus_sign: sign up with his phone number.
 
 <div align= "center"> 
@@ -23,10 +26,9 @@ How do you feel when the sweepers of the city are exhausted in constantly collec
 |Map|Map|Specify your garbage|Specify your garbage|
 |:-----------:|:-----:|:---------:|:---------:|
 |<img src="garbage%20prioject%20gifs/GarbageStartDark.gif" width="200px">|<img src="garbage%20prioject%20gifs/TurnOnGpsLight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageKight.gif" width="200px">|<img src="garbage%20prioject%20gifs/SelectGarbageDark.gif" width="200px">|
+<div/>
 >Users can help sweepers or garbage collectors by choosing the type of waste they have and sending its location to them.
 
-
-<div/>
 
 <div align= "center"> 
   
