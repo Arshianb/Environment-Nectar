@@ -11,7 +11,7 @@
 ### How?
 How do you feel when the sweepers of the city are exhausted in constantly collecting the garbage when we can help them by giving our garbage location to them, so why not :smirk:. This app was made to give the location of municipal garbage to those whose job is :star2:. and this is even not the only right thing to do :heavy_check_mark:, but you can also collect points to get discounts in the program sponsor stores :currency_exchange:. It's coded by `React Native` as you can see in the **master branch**.
 
-## About The Project
+## Demo
 **An overview of the program (The whole app was programmed on both side of light and dark mode):**
 |Display the application logo|Start of the program|Sign up|Sign up|
 |:-----------:|:-----:|:---------:|:---------:|
