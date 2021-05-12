@@ -39,7 +39,7 @@ How do you feel when the sweepers of the city are exhausted in constantly collec
 
 <div align= "center"> 
   
-## Powered by
+## License
 **© Arshia Nikbakh -Student of University of Isfahan-**
 
 Check my [:link: Linked in page](https://www.linkedin.com/in/arshia-nikbakht).
